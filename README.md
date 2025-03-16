@@ -1,6 +1,4 @@
-Based on the content of your repository and the provided information, here is a generated `README.md` file for your project:
 
-```markdown
 # Domain-Specific LLM for Financial Analysis
 
 This project focuses on creating a domain-specific Language Model (LLM) for financial analysis. The system is designed to generate financial statements, summarize financial reports, and answer queries related to financial topics using a fine-tuned GPT-2 model.
@@ -72,4 +70,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For more information, visit the [repository](https://github.com/Rohit999zzz/-Domain-Specific-LLM-for-Financial-Analysis).
 ```
 
-You can customize this `README.md` file further based on your specific needs. Let me know if you need any changes or additional information!
